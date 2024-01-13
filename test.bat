@@ -11,4 +11,3 @@ goto again
 :again
 set /p answer=Package 
 call "Coding stuff/%answer%.bat"
-pause
