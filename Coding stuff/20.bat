@@ -5,4 +5,4 @@ robocopy *.mp3 "./20" "../Songs" /MOV /ETA
 rd /s /q 20
 
 cls
-call ../21.bat
+call "../21.bat"
